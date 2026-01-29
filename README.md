@@ -17,7 +17,7 @@
 
 ### 🌌 About Me
 
-Hey there! I’m **Susheel**, a developer focused on **web development, data science, and AI/ML**.
+Hey there! I’m **Rinku**, a developer focused on **web development, data science, and AI/ML**.
 I enjoy building **scalable Django applications**, analyzing data for insights, and creating
 **machine learning models** that solve real-world problems.
 
@@ -31,12 +31,12 @@ and turning raw data into **actionable intelligence**.
 ### ⚙️ Core Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,javascript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,git,github,vscode" />
 </p>
 
 | Type                   | Skills & Tools                                                    |
 | :--------------------- | :---------------------------------------------------------------- |
-| 🌐 **Web Development** | Django, Flask, REST APIs, HTML, CSS, JavaScript                   |
+| 🌐 **Web Development** | Django, REST APIs, HTML, CSS, JavaScript                   |
 | 📊 **Data Science**    | Pandas, NumPy, Matplotlib, Seaborn                                |
 | 🤖 **AI / ML**         | Scikit-learn, ML Algorithms, Data Preprocessing, Model Evaluation |
 | 🧠 **Focus Areas**     | Backend Systems, Data Analysis, Machine Learning                  |
@@ -106,7 +106,7 @@ I enjoy experimenting with:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeropowerzero&color=00FFF0&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rinkusharma8786&color=00FFF0&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ I enjoy experimenting with:
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,git,github,vscode" />
 </p>
 
 <p align="center"><i>Last Updated: October 2025 ✨</i></p>
