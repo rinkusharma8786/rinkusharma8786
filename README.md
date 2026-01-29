@@ -81,7 +81,7 @@ I enjoy experimenting with:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rinkusharma8786\&theme=react-dark)
 
-</di>
+</div>
 ### 📊 GitHub Analytics
 
 <img src="https://streak-stats.vercel.app/?user=rinkusharma8786&theme=radical&hide_border=false&border_radius=5&border=8B5CF6" height="170" />
