@@ -75,10 +75,16 @@ I enjoy experimenting with:
 * AI-powered backend systems
 
 ---
+### 📊 Contribution Graph
 
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rinkusharma8786\&theme=react-dark)
+
+</di>
 ### 📊 GitHub Analytics
 
-<img src="https://streak-stats.vercel.app/?user=zeropowerzero&theme=radical&hide_border=false&border_radius=5&border=8B5CF6" height="170" />
+<img src="https://streak-stats.vercel.app/?user=rinkusharma8786&theme=radical&hide_border=false&border_radius=5&border=8B5CF6" height="170" />
 
 ---
 
@@ -94,7 +100,7 @@ I enjoy experimenting with:
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:zeropowerzero6@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rinkusharma8786@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
